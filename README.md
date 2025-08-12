@@ -44,7 +44,6 @@ A fine-tuned **OpenChat 3.5** model customized using a domain-specific **JSONL d
 ## 🔗 Repositories
 
 - 💾 **Model:** [Hugging Face - arsheefathimas/my-finetuned-openchat](https://huggingface.co/arsheefathimas/my-finetuned-openchat)  
-- 💻 **Gradio App:** [Hugging Face Space - Yalnaverse Chat](https://huggingface.co/spaces/arsheefathimas/yalnaverse_chat)  
 - 📦 **Source Code (this repo):** [`my-finetuned-model`](https://github.com/ArsheeFathimaS/my-finetuned-model)
 
 ---
